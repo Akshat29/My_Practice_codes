@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2 pointer/2 pointer.iml" filepath="$PROJECT_DIR$/2 pointer/2 pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array_list/Array_list.iml" filepath="$PROJECT_DIR$/Array_list/Array_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.iml" filepath="$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carry forward/Carry forward.iml" filepath="$PROJECT_DIR$/Carry forward/Carry forward.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HASHMAP/HASHMAP.iml" filepath="$PROJECT_DIR$/HASHMAP/HASHMAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashset/Hashset.iml" filepath="$PROJECT_DIR$/Hashset/Hashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My work.iml" filepath="$PROJECT_DIR$/My work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prefix sum/Prefix sum.iml" filepath="$PROJECT_DIR$/Prefix sum/Prefix sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCALER codes/SCALER codes.iml" filepath="$PROJECT_DIR$/SCALER codes/SCALER codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding window/Sliding window.iml" filepath="$PROJECT_DIR$/Sliding window/Sliding window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+    </modules>
+  </component>
+</project>
